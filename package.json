@@ -13,7 +13,8 @@
     "format:fix": "prettier --write \"**/*.{ts,vue,css,scss,md}\""
   },
   "engines": {
-    "node": "20.x"
+    "node": "20.x",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@nuxt/devtools": "^1.5.2",
